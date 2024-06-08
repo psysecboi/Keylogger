@@ -7,7 +7,7 @@ Python-based Keylogger
 
 - 🌱 I’m currently exploring **full stack development and python automation, and web scraping**
 
-- 🤝 I’m am proficient in using CySec tools like **Burpsuite, etc.**
+- 🤝 I’m proficient in using CySec tools like **Burpsuite, etc.**
 
 - ⚡ Fun fact **I love using Kali Linux (because it's the best😁)**
 
