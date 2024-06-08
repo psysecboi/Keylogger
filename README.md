@@ -3,7 +3,7 @@ Python-based Keylogger
 <h1 align="center">Hi, I'm Payas</h1>
 <h3 align="center">Web Application Pentester | OSINT | Bash | Python</h3>
 
-- 🔭 I’m currently works as a **Bug Hunter**
+- 🔭 I’m currently working as a **Bug Hunter**
 
 - 🌱 I’m currently exploring **full stack development and python automation, and web scraping**
 
