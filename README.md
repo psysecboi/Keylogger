@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Payas</h1>
-<h3 align="center">Web Application Pentester | OSINT | Bash | Python</h3>
+<h3 align="center"> Competitive Programming (Codeforces - Max. 1042, CodeChef - 2 Star) | Web2/Web3 | C/C++/Java/Python | OSINT | Cyber Security | CSE Undergrad </h3>
 
-- 🔭 I currently work as a **Bug Hunter**
+- 🔭 I currently work as a **Programmer**
 
-- 🌱 I’m currently exploring **full stack development and Pentesting**
+- 🌱 I’m currently exploring **Competitive Programming and full stack development**
 
-- 🤝 I’m  proficient in using CySec tools like **Burpsuite, etc.**
-
-- ⚡ Fun fact **I love using Kali Linux (because it's the best😁)**
+- ⚡ Fun fact **I love using Sublime text and Linux (because it's the best😁)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
